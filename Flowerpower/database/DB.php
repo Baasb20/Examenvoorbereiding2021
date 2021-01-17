@@ -5,7 +5,6 @@ class database{
   private $database;
   private $gebruikersnaam;
   private $wachtwoord;
-  private $conn;
 
   function __construct() {
     $this->servername = 'localhost';
@@ -74,4 +73,5 @@ class database{
       echo 'Failed to login. Please fix your input and try again.';
     }
   }
+
 }
