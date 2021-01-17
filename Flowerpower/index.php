@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="artikel/style.css">
 </head>
     <body>
         <div class="home">
@@ -15,13 +15,13 @@
                         <a href="contactpagina.php">Contact</a>
                       </li>
                       <li>
-                        <a href="artikelen.php">Artikelen</a>
+                        <a href="artikel/artikelen.php">Artikelen</a>
                       </li>
                       <li>
-                        <a href="loginCustomer.php">Inloggen als klant</a>
+                        <a href="klant/loginklant.php">Inloggen als klant</a>
                       </li>
                       <li>
-                        <a href="loginEmployee.php">Inloggen als medewerker</a>
+                        <a href="medewerker/loginmedewerker.php">Inloggen als medewerker</a>
                       </li>
                     </ul>
                 </div>
@@ -31,8 +31,5 @@
               <img src="images/bloemenwinkel.jpg">
             </div>
         </div>
-        <!-- <h1>Flowerpower</h1>
-        <img src="boeket.jpg">
-        <img src="bloemenwinkel.jpg"> -->
     </body>
 </html>
